@@ -1,0 +1,67 @@
+.corpo{
+
+    border: 50px;
+    
+ text-align: center;
+    background-color: rgb(46, 46, 63);
+    width: 200px;
+    height: 350px;
+ color: white;
+  
+   
+    border-radius: 5px;
+    font-family: arial;
+    font-size: large;
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+
+body{
+    background-color: gray;
+}
+button{
+
+background-color: gray;
+width: 40px;
+height:40px;
+font-size: 25px;
+margin: 2px;
+cursor: pointer;
+border: none;
+color: white;
+
+}
+.button:hover{
+    background-color: black;
+
+}
+#resultado{
+    width: 188px;
+    background-color: white;
+    height: 30px;
+    margin: 5px;
+    color: black;
+    text-align: right;
+ 
+}
+.button2{
+
+    background-color: gray;
+    width:90px;
+    height:35px;
+    font-size: 25px;
+    margin: 2px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    
+    }
+    .button2:hover{
+        background-color: black;
+    
+    }
+
+   
